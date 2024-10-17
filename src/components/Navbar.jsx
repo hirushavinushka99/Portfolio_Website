@@ -6,8 +6,8 @@ import { navLinks } from '../constants';
 import { logo, menu, close } from '../assets';
 
 const Navbar = () => {
-  const [first, setfirst] = useState(second)
-  
+  const [active, setActive] = useState('')
+
   return (
     <nav 
       className={`${styles.paddindX}} w-full flex items-center py-5 fixed top-0 z-20 bg-primary`}>
@@ -17,8 +17,11 @@ const Navbar = () => {
           className='flex items-center gap-2'
           onClick={() => {
             setActive('');
+            window.scrollTo(0, 0);
           }}
         >
+          <img src={logo} alt='logo' className='w-9' h-9 object-contain/>
+          <p className='text-white text-[18px] font-bold cursor-pointer'>Hirusha <span className='sm:block hidden'>| De Silva</span></p>
 
         </Link>
 
