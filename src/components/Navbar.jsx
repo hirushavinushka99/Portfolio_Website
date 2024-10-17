@@ -6,7 +6,8 @@ import { navLinks } from '../constants';
 import { logo, menu, close } from '../assets';
 
 const Navbar = () => {
-  const [active, setActive] = useState('')
+  const [active, setActive] = useState('');
+  const [toggle, setToggle] = useState(false);
 
   return (
     <nav 
@@ -32,14 +33,24 @@ const Navbar = () => {
                   ? 'text-white'
                   : 'text-secondary'
               } hover:text-white text-[18px] font-medium cursor-pointer`}
+              onClick={() => setActive(Link.title)}
             >
               <a href={`#${Link.id}`}>{Link.title}</a>
             </li>
           ))}
         </ul>
+        <div className='sm:hidden flex flex-1 justify-end items-center'>
+          <img 
+            src={toggle ? close : menu}
+            alt='menu'
+            className='w-[28px] h-[28px] object-contain cursor-pointer'
+            onClick={() => setToggle(!toggle)}
+          />
+          <div className={`${!toggle ? 'hidden' : 'flex'}`}>
 
+          </div>
+        </div>
       </div>
-
     </nav>
   )
 }
