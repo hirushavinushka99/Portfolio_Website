@@ -42,13 +42,21 @@ import {
   
   const services = [
     {
-      title: "UI/UX Designer",
+      title: "Web Developer",
+      icon: web,
+    },
+    {
+      title: "React JS Developer",
       icon: mobile,
     },
     {
-      title: "Web Developer(Front End)",
-      icon: web,
-    }
+      title: "Frontend Developer",
+      icon: backend,
+    },
+    {
+      title: "UI/UX Designer",
+      icon: creator,
+    },
   ];
   
   const technologies = [
@@ -108,55 +116,51 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Responsive Web Design",
+      //company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Design for every device.",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Designed and developed responsive websites using HTML, CSS, and JavaScript.",
+        "Ensured optimal performance across all devices and screen sizes.",
+        "Focused on creating seamless user experiences with clean, adaptive layouts.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "User-Centered UI/UX Prototyping",
+      //company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Users first, always",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Created interactive prototypes and wireframes for web applications.",
+        "Focused on user experience and functionality.",
+        "Utilized tools like Figma and Adobe XD to design intuitive and visually appealing interfaces.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Frontend Development with React JS",
+      //company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Dynamic, scalable apps.",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Built dynamic and scalable frontend applications using React JS.",
+        "Leveraged React's component-based architecture to create reusable UI components.",
+        "Optimized performance and improved user interaction.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "JavaScript-Based Interactive Web Applications",
+      //company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Interactive web magic.",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed interactive web applications using JavaScript.",
+        "Enhanced user engagement with features like animations, event handling, and real-time updates.",
+        "Emphasized fast load times and smooth transitions.",
       ],
     },
   ];
