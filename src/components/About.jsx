@@ -52,7 +52,7 @@ const About = () => {
         I'm a dedicated UI/UX designer and frontend web developer with a strong foundation in HTML, CSS, and JavaScript, along with expertise in React. As an undergraduate, I’m passionate about creating intuitive, visually appealing, and user-centered web applications. Although I am still gaining experience, I am eager to collaborate and apply my skills to real-world projects, delivering innovative and effective solutions. Let's work together to build something impactful!
       </motion.p>
 
-      <div className='mt -20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
 
