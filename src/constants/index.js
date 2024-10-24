@@ -194,67 +194,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Modern Bank App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Built a fully responsive website using React JS and Tailwind CSS, featuring a stunning hero section, business stats, reusable components, call-to-action buttons, and testimonials.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
-        {
+        /*{
           name: "mongodb",
           color: "green-text-gradient",
-        },
+        },*/
         {
           name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/hirushavinushka99/Modern-Bank-App",
     },
     {
-      name: "Job IT",
+      name: "Expense Tracker App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A React-based Expense Tracker app using useState, useContext, useReducer, and the Context API for efficient state management, providing real-time income and expense tracking.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "contextapi",
           color: "green-text-gradient",
         },
-        {
+        /*{
           name: "scss",
           color: "pink-text-gradient",
-        },
+        },*/
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/hirushavinushka99/Expense-Tracker",
     },
     {
-      name: "Trip Guide",
+      name: "Millionaire Quiz App",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developed a Who Wants to Be a Millionaire trivia quiz app using React hooks for state management, lifelines, score tracking, and responsive design, showcasing interactive web application skills.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
-        {
+        /*{
           name: "supabase",
           color: "green-text-gradient",
-        },
+        },*/
         {
           name: "css",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/hirushavinushka99/React-Millionaire-Quiz-App",
     },
   ];
   
