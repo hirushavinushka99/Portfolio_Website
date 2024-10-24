@@ -168,27 +168,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "I studied at Dhammissara National College for my GCE Ordinary Level, where I completed ICT along with other core subjects.",
+      name: "Dhammissara National College",
+      designation: "[2015-2017]",
+      company: "Ordinary Level Student",
+      image: "https://th.bing.com/th/id/R.dbf9bfb822363e893d867c7f804f5458?rik=YVYmnRpU0QWcCA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-nkjD3D10tGQ%2fTkwSpY1aqII%2fAAAAAAAAAC0%2fWkhIDvZJbUQ%2fs1600%2fdnc.jpg&ehk=VflnvaQXyZpbBETrZRjIEvVaruGUGQojJVbjpg5tT6s%3d&risl=&pid=ImgRaw&r=0",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "I studied at Dhammissara National College for my GCE Advanced Level, focusing on the Physical Science stream with ICT as a subject.",
+      name: "Dhammissara National College",
+      designation: "[2018-2020]",
+      company: "Advanced Level Student",
+      image: "https://th.bing.com/th/id/R.dbf9bfb822363e893d867c7f804f5458?rik=YVYmnRpU0QWcCA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-nkjD3D10tGQ%2fTkwSpY1aqII%2fAAAAAAAAAC0%2fWkhIDvZJbUQ%2fs1600%2fdnc.jpg&ehk=VflnvaQXyZpbBETrZRjIEvVaruGUGQojJVbjpg5tT6s%3d&risl=&pid=ImgRaw&r=0",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "I am pursuing a degree in Computing and Information Systems, developing skills in software development, UI/UX design, and frontend technologies.",
+      name: "Sabaragamuwa University of Sri Lanka",
+      designation: "[2022-Present]",
+      company: "Undergraduate Student",
+      image: "https://th.bing.com/th/id/OIP.ti4t1nEdN7yKcEVvm87-8wHaHa?rs=1&pid=ImgDetMain",
     },
   ];
   
