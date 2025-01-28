@@ -122,7 +122,7 @@ import {
       iconBg: "#383E56",
       date: "Building Scalable Solutions, Powering the Web.",
       points: [
-        "Developed and maintained full-stack web applications using JavaScript, TypeScript, React, and Node.js.",
+        "Developed full-stack web apps with JavaScript, TypeScript, React, and Node.js.",
         "Ensured high performance and scalability across diverse platforms and devices.",
         "Implemented clean code practices and optimized backend logic for efficiency.",
       ],
@@ -146,9 +146,9 @@ import {
       iconBg: "#383E56",
       date: "Scalable, Secure, Seamless Web Experiences.",
       points: [
-        "Designed and developed scalable web applications using JavaScript, TypeScript, React, and Node.js.",
+        "Built scalable web apps with JavaScript, TypeScript, React, and Node.js.",
         "Built RESTful APIs and integrated backend services using Node.js and Express.js.",
-        "Optimized application performance, ensuring efficient state management and seamless data flow.",
+        "Optimized performance with efficient state management and seamless data flow.",
       ],
     },
     {
@@ -158,7 +158,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Innovating with Code, Powering the Future.",
       points: [
-        "Developed real-time, interactive web applications with smooth animations and fast load times.",
+        "Built real-time web apps with smooth animations and fast loads.",
         "Implemented secure authentication systems, database interactions, and cloud-based solutions.",
         "Ensured responsive and accessible UI/UX, delivering an intuitive user experience.",
       ],
