@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a dedicated UI/UX designer and frontend web developer with a strong foundation in HTML, CSS, and JavaScript, along with expertise in React. As an undergraduate, I’m passionate about creating intuitive, visually appealing, and user-centered web applications. Although I am still gaining experience, I am eager to collaborate and apply my skills to real-world projects, delivering innovative and effective solutions. Let's work together to build something impactful!
+        I'm a dedicated Full-Stack Software Engineer (Web) with expertise in JavaScript, TypeScript, React, and Node.js. I specialize in building scalable, high-performance web applications with clean, efficient code. Passionate about solving complex problems, I continuously enhance my skills to develop innovative and user-friendly solutions. I'm eager to collaborate and contribute to impactful projects that push the boundaries of web development.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Software Engineer",
       icon: web,
     },
     {
-      title: "React JS Developer",
+      title: "Full-Stack Developer",
       icon: mobile,
     },
     {
-      title: "Frontend Developer",
+      title: "Backend Developer",
       icon: backend,
     },
     {
-      title: "UI/UX Designer",
+      title: "System Architect",
       icon: creator,
     },
   ];
@@ -72,23 +72,23 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    /*{
+    {
       name: "TypeScript",
       icon: typescript,
-    },*/
+    },
     {
       name: "React JS",
       icon: reactjs,
     },
-    /*{
+    {
       name: "Redux Toolkit",
       icon: redux,
-    },*/
+    },
     {
       name: "Tailwind CSS",
       icon: tailwind,
     },
-    /*{
+    {
       name: "Node JS",
       icon: nodejs,
     },
@@ -99,7 +99,7 @@ import {
     {
       name: "Three JS",
       icon: threejs,
-    },*/
+    },
     {
       name: "git",
       icon: git,
@@ -108,59 +108,59 @@ import {
       name: "figma",
       icon: figma,
     },
-    /*{
+    {
       name: "docker",
       icon: docker,
-    },*/
+    },
   ];
   
   const experiences = [
     {
-      title: "Responsive Web Design",
+      title: "Scalable Web Development",
       //company_name: "Starbucks",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "Design for every device.",
+      date: "Building Scalable Solutions, Powering the Web.",
       points: [
-        "Designed and developed responsive websites using HTML, CSS, and JavaScript.",
-        "Ensured optimal performance across all devices and screen sizes.",
-        "Focused on creating seamless user experiences with clean, adaptive layouts.",
+        "Developed and maintained full-stack web applications using JavaScript, TypeScript, React, and Node.js.",
+        "Ensured high performance and scalability across diverse platforms and devices.",
+        "Implemented clean code practices and optimized backend logic for efficiency.",
       ],
     },
     {
-      title: "User-Centered UI/UX Prototyping",
+      title: "Backend & API Development",
       //company_name: "Tesla",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Users first, always",
+      date: "Efficient Code, Seamless Performance.",
       points: [
-        "Created interactive prototypes and wireframes for web applications.",
-        "Focused on user experience and functionality.",
-        "Utilized tools like Figma and Adobe XD to design intuitive and visually appealing interfaces.",
+        "Designed and built RESTful APIs to enable seamless data communication.",
+        "Focused on server-side performance, security, and database optimization.",
+        "Worked with MongoDB, PostgreSQL, and Firebase for efficient data management.",
       ],
     },
     {
-      title: "Frontend Development with React JS",
+      title: "Full-Stack Software Development",
       //company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Dynamic, scalable apps.",
+      date: "Building Scalable, Secure, and Seamless Web Experiences.",
       points: [
-        "Built dynamic and scalable frontend applications using React JS.",
-        "Leveraged React's component-based architecture to create reusable UI components.",
-        "Optimized performance and improved user interaction.",
+        "Designed and developed scalable web applications using JavaScript, TypeScript, React, and Node.js.",
+        "Built RESTful APIs and integrated backend services using Node.js and Express.js.",
+        "Optimized application performance, ensuring efficient state management and seamless data flow.",
       ],
     },
     {
-      title: "JavaScript-Based Interactive Web Applications",
+      title: "Interactive and High-Performance Applications",
       //company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Interactive web magic.",
+      date: "Empowering Innovation with Code, One Application at a Time.",
       points: [
-        "Developed interactive web applications using JavaScript.",
-        "Enhanced user engagement with features like animations, event handling, and real-time updates.",
-        "Emphasized fast load times and smooth transitions.",
+        "Developed real-time, interactive web applications with smooth animations and fast load times.",
+        "Implemented secure authentication systems, database interactions, and cloud-based solutions.",
+        "Ensured responsive and accessible UI/UX, delivering an intuitive user experience.",
       ],
     },
   ];
