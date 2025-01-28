@@ -144,7 +144,7 @@ import {
       //company_name: "Shopify",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Building Scalable, Secure, and Seamless Web Experiences.",
+      date: "Scalable, Secure, Seamless Web Experiences.",
       points: [
         "Designed and developed scalable web applications using JavaScript, TypeScript, React, and Node.js.",
         "Built RESTful APIs and integrated backend services using Node.js and Express.js.",
@@ -156,7 +156,7 @@ import {
       //company_name: "Meta",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Empowering Innovation with Code, One Application at a Time.",
+      date: "Innovating with Code, Powering the Future.",
       points: [
         "Developed real-time, interactive web applications with smooth animations and fast load times.",
         "Implemented secure authentication systems, database interactions, and cloud-based solutions.",
@@ -184,7 +184,7 @@ import {
     },
     {
       testimonial:
-        "I am pursuing a degree in Computing and Information Systems, developing skills in software development, UI/UX design, and frontend technologies.",
+        "I am pursuing a degree in Computing and Information Systems, focusing on software engineering, web development, and technology solutions.",
       name: "Sabaragamuwa University of Sri Lanka",
       designation: "[2022-Present]",
       company: "Undergraduate Student",
